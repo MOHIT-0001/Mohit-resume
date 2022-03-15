@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mohit-resume/static/css/main.835b9c37.css",
+    "main.js": "/mohit-resume/static/js/main.0a858df3.js",
+    "static/js/787.cb831069.chunk.js": "/mohit-resume/static/js/787.cb831069.chunk.js",
+    "static/media/_D1A0097.png": "/mohit-resume/static/media/_D1A0097.73b72ecb76facf508eae.png",
+    "static/media/download(2).jpg": "/mohit-resume/static/media/download(2).7a346bb89632651fc833.jpg",
+    "static/media/download(3).jpg": "/mohit-resume/static/media/download(3).e6c2ff0d4817e4e72cf5.jpg",
+    "static/media/download(1).jpg": "/mohit-resume/static/media/download(1).3a04697985b39b9f39ea.jpg",
+    "static/media/download.jpg": "/mohit-resume/static/media/download.319a5d7d62435903caf6.jpg",
+    "index.html": "/mohit-resume/index.html",
+    "main.835b9c37.css.map": "/mohit-resume/static/css/main.835b9c37.css.map",
+    "main.0a858df3.js.map": "/mohit-resume/static/js/main.0a858df3.js.map",
+    "787.cb831069.chunk.js.map": "/mohit-resume/static/js/787.cb831069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835b9c37.css",
+    "static/js/main.0a858df3.js"
+  ]
+}
